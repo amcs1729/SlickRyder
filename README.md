@@ -1,2 +1,2 @@
 # SlickRyder
-A Slack bot that requests an Uber ride on behalf of a user. 
+A Slack bot that requests a Lyft ride on behalf of a user - WIP, check back soon!
